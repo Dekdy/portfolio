@@ -1,6 +1,7 @@
 import React from 'react'
+import './Experience.css'
 
-function Experience() {
+const Experience = () => {
   return (
     <div>Experience</div>
   )
